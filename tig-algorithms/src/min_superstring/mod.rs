@@ -2,7 +2,8 @@
 
 // c002_a002
 
-// c002_a003
+pub mod stolen;
+pub use stolen as c002_a003;
 
 // c002_a004
 
