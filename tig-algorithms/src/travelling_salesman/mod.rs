@@ -2,7 +2,8 @@
 
 // c003_a002
 
-// c003_a003
+pub mod simple_tsp;
+pub use simple_tsp as c003_a003;
 
 // c003_a004
 
