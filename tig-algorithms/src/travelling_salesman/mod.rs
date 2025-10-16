@@ -1,6 +1,7 @@
 // c003_a001
 
-// c003_a002
+pub mod random_ls_tsp;
+pub use random_ls_tsp as c003_a002;
 
 // c003_a003
 
