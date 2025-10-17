@@ -6,7 +6,8 @@
 
 // c002_a004
 
-// c002_a005
+pub mod hijacked;
+pub use hijacked as c002_a005;
 
 // c002_a006
 
