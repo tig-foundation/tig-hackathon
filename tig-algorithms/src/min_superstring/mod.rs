@@ -4,7 +4,8 @@
 
 // c002_a003
 
-// c002_a004
+pub mod greevilsgreed3;
+pub use greevilsgreed3 as c002_a004;
 
 // c002_a005
 
