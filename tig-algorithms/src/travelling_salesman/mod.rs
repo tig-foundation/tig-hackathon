@@ -4,7 +4,8 @@
 
 // c003_a003
 
-// c003_a004
+pub mod newalgo;
+pub use newalgo as c003_a004;
 
 // c003_a005
 
