@@ -6,7 +6,8 @@
 
 // c003_a004
 
-// c003_a005
+pub mod lazycar;
+pub use lazycar as c003_a005;
 
 // c003_a006
 
