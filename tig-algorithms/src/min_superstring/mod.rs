@@ -8,7 +8,8 @@
 
 // c002_a005
 
-// c002_a006
+pub mod algo_1;
+pub use algo_1 as c002_a006;
 
 // c002_a007
 
