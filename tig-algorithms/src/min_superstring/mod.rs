@@ -1,6 +1,7 @@
 // c002_a001
 
-// c002_a002
+pub mod winsortf_algo_r2;
+pub use winsortf_algo_r2 as c002_a002;
 
 // c002_a003
 
