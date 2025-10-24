@@ -10,7 +10,8 @@
 
 // c002_a006
 
-// c002_a007
+pub mod greedy;
+pub use greedy as c002_a007;
 
 // c002_a008
 
