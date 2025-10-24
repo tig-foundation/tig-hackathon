@@ -12,7 +12,8 @@
 
 // c002_a007
 
-// c002_a008
+pub mod my_algo15r;
+pub use my_algo15r as c002_a008;
 
 // c002_a009
 
