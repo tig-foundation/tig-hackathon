@@ -1,4 +1,5 @@
-// c003_a001
+pub mod random_greedy;
+pub use random_greedy as c003_a001;
 
 // c003_a002
 
