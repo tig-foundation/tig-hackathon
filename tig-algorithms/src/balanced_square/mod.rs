@@ -1,6 +1,7 @@
 // c001_a001
 
-// c001_a002
+pub mod my_algo;
+pub use my_algo as c001_a002;
 
 // c001_a003
 
