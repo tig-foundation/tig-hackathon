@@ -10,7 +10,8 @@
 
 // c003_a006
 
-// c003_a007
+pub mod winsortf_algo_r6;
+pub use winsortf_algo_r6 as c003_a007;
 
 // c003_a008
 
