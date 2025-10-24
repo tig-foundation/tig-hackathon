@@ -4,7 +4,8 @@
 
 // c003_a003
 
-// c003_a004
+pub mod ic_trav_sales;
+pub use ic_trav_sales as c003_a004;
 
 // c003_a005
 
