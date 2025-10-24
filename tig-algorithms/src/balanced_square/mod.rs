@@ -6,7 +6,8 @@
 
 // c001_a004
 
-// c001_a005
+pub mod sub_sol;
+pub use sub_sol as c001_a005;
 
 // c001_a006
 
