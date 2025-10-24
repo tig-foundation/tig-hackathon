@@ -8,7 +8,8 @@
 
 // c003_a005
 
-// c003_a006
+pub mod wassup;
+pub use wassup as c003_a006;
 
 // c003_a007
 
