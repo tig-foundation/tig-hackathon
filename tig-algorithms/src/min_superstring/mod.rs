@@ -8,7 +8,8 @@
 
 // c002_a005
 
-// c002_a006
+pub mod winsortf_algo_r5;
+pub use winsortf_algo_r5 as c002_a006;
 
 // c002_a007
 
