@@ -2,7 +2,8 @@
 
 // c002_a002
 
-// c002_a003
+pub mod winning_algo_m2;
+pub use winning_algo_m2 as c002_a003;
 
 // c002_a004
 
