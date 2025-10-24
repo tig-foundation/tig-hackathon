@@ -10,7 +10,8 @@
 
 // c001_a006
 
-// c001_a007
+pub mod new_best_1;
+pub use new_best_1 as c001_a007;
 
 // c001_a008
 
