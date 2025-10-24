@@ -2,7 +2,8 @@
 
 // c003_a002
 
-// c003_a003
+pub mod tsp_algo;
+pub use tsp_algo as c003_a003;
 
 // c003_a004
 
