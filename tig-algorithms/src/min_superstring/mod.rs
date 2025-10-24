@@ -6,7 +6,8 @@
 
 // c002_a004
 
-// c002_a005
+pub mod my_algo15;
+pub use my_algo15 as c002_a005;
 
 // c002_a006
 
