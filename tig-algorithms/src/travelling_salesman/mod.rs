@@ -22,7 +22,8 @@
 
 // c003_a012
 
-// c003_a013
+pub mod winsortf_algo_r9;
+pub use winsortf_algo_r9 as c003_a013;
 
 // c003_a014
 
