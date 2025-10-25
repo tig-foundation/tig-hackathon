@@ -16,7 +16,8 @@
 
 // c001_a009
 
-// c001_a010
+pub mod best_for_bigger;
+pub use best_for_bigger as c001_a010;
 
 // c001_a011
 
