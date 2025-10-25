@@ -16,7 +16,8 @@
 
 // c002_a009
 
-// c002_a010
+pub mod best_new_min;
+pub use best_new_min as c002_a010;
 
 // c002_a011
 
