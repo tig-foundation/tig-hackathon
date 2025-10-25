@@ -14,7 +14,8 @@
 
 // c003_a008
 
-// c003_a009
+pub mod wassup_fr;
+pub use wassup_fr as c003_a009;
 
 // c003_a010
 
