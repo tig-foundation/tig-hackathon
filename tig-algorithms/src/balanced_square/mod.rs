@@ -20,7 +20,8 @@
 
 // c001_a011
 
-// c001_a012
+pub mod magic;
+pub use magic as c001_a012;
 
 // c001_a013
 
