@@ -14,7 +14,8 @@
 
 // c001_a008
 
-// c001_a009
+pub mod winsortf_algo_r7;
+pub use winsortf_algo_r7 as c001_a009;
 
 // c001_a010
 
