@@ -16,7 +16,8 @@
 
 // c003_a009
 
-// c003_a010
+pub mod wassupfrfr;
+pub use wassupfrfr as c003_a010;
 
 // c003_a011
 
