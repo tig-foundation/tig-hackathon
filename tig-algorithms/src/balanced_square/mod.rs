@@ -12,7 +12,8 @@
 
 // c001_a007
 
-// c001_a008
+pub mod darealgoat;
+pub use darealgoat as c001_a008;
 
 // c001_a009
 
